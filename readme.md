@@ -21,3 +21,11 @@ You can verify whether your code is correct by running the unit tests ([*math.sp
 * Run unit tests: `npm test`
 
 If your code contains errors, fix them and rerun the last step as long as there are failing unit tests.
+
+## TEST: Java-Code
+```java
+int temp = 0;
+for (int i=0; i<10; i++){
+  System.out.println("i: "+i);
+}
+```
